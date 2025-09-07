@@ -8,7 +8,7 @@
 - Day 7: Built calculator program & practiced basic math programs
 
 Feeling more confident with syntax and writing small programs!
-[Day7.c](https://github.com/user-attachments/files/22174858/Day7.c)
+[day7.c](https://github.com/user-attachments/files/22196971/day7.c)
 [Day5.c](https://github.com/user-attachments/files/22174857/Day5.c)
 [Day3.c](https://github.com/user-attachments/files/22174856/Day3.c)
 [Day2.c](https://github.com/user-attachments/files/22174855/Day2.c)
